@@ -1,3 +1,4 @@
 test
 
 ini dari branch 2
+lorem ipsum branc 2
