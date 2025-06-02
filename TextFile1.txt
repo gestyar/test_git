@@ -2,4 +2,4 @@ test
 
 ini adalah dari branch 1
 
-saya ada update baru lagi
+saya ada update branch 1
