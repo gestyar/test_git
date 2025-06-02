@@ -1,3 +1,6 @@
 test
 
+ini dari branch 2
+lorem ipsum branc 2
+
 ini adalah dari branch 1
