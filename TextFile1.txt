@@ -5,4 +5,8 @@ lorem ipsum branc 2
 
 ini adalah dari branch 1
 
-saya ada update baru lagi
+saya ada update branch 1
+
+saya ada update branch 1 - halo halo
+
+saya ada update branch 1 v2
