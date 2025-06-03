@@ -1,5 +1,7 @@
 test
 
+code branch1 ke 3
+
 ada tambahan code di sini
 
 ini dari branch 2
@@ -12,3 +14,9 @@ saya ada update branch 1
 saya ada update branch 1 v2
 
 ingin coba merge tapi di revert
+
+code branch1
+
+code branch1 ke 2
+
+
