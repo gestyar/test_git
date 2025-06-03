@@ -7,6 +7,4 @@ ini adalah dari branch 1
 
 saya ada update branch 1
 
-saya ada update branch 1 - halo halo
-
 saya ada update branch 1 v2
