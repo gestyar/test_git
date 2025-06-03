@@ -4,3 +4,11 @@ ada tambahan code di sini
 
 ini dari branch 2
 lorem ipsum branc 2
+
+ini adalah dari branch 1
+
+saya ada update branch 1
+
+saya ada update branch 1 v2
+
+ingin coba merge tapi di revert
